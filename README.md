@@ -6,7 +6,7 @@ This repository contains the code implementation for the research conducted on a
 
 - [Introduction](#introduction)
 - [Dependencies](#dependencies)
-- [Code Organisation](#codeorga)
+- [Code Organization](#codeorga)
 - [Usage](#usage)
 - [Results](#results)
 - [Contributing](#contributing)
@@ -36,7 +36,7 @@ The code in this repository requires the following dependencies:
 
 Ensure that these dependencies are installed before running the code.
 
-## Dependencies
+## Code Organization
 
 Code structure:
 
