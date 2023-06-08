@@ -6,7 +6,7 @@ This repository contains the code implementation for the research conducted on a
 
 - [Introduction](#introduction)
 - [Dependencies](#dependencies)
-- [Code Organization](#codeorga)
+- [Code Organization](#code-organization)
 - [Usage](#usage)
 - [Results](#results)
 - [Contributing](#contributing)
